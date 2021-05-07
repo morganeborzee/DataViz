@@ -1,0 +1,311 @@
+[
+  {
+    "id": 1,
+    "name": "emotions"
+  },
+  {
+    "id": 2,
+    "name": "peace",
+    "parent": 32
+  },
+  {
+    "id": 3,
+    "name": "relief",
+    "parent": 32
+  },
+  {
+    "id": 4,
+    "name": "good fortune",
+    "parent": 32
+  },
+  {
+    "id": 5,
+    "name": "confidence",
+    "parent": 32
+  },
+  {
+    "id": 6,
+    "name": "met expectationts",
+    "parent": 32
+  },
+  {
+    "id": 7,
+    "name": "positive future expectations",
+    "parent": 32
+  },
+  {
+    "id": 8,
+    "name": "drive",
+    "parent": 32
+  },
+  {
+    "id": 9,
+    "name": "admiration",
+    "parent": 32
+  },
+  {
+    "id": 10,
+    "name": "energy",
+    "parent": 32
+  },
+  {
+    "id": 11,
+    "name": "joy",
+    "parent": 32
+  },
+  {
+    "id": 12,
+    "name": "surprise",
+    "parent": 34
+  },
+  {
+    "id": 13,
+    "name": "exaltation",
+    "parent": 34
+  },
+  {
+    "id": 14,
+    "name": "discomfort",
+    "parent": 33
+  },
+  {
+    "id": 15,
+    "name": "anger",
+    "parent": 33
+  },
+  {
+    "id": 16,
+    "name": "unmet goal",
+    "parent": 33
+  },
+  {
+    "id": 17,
+    "name": "guilt",
+    "parent": 33
+  },
+  {
+    "id": 18,
+    "name": "resentment",
+    "parent": 33
+  },
+  {
+    "id": 19,
+    "name": "unmet expectations",
+    "parent": 33
+  },
+  {
+    "id": 20,
+    "name": "confusion",
+    "parent": 33
+  },
+  {
+    "id": 21,
+    "name": "fear",
+    "parent": 33
+  },
+  {
+    "id": 22,
+    "name": "unrest",
+    "parent": 33
+  },
+  {
+    "id": 23,
+    "name": "stress",
+    "parent": 33
+  },
+  {
+    "id": 24,
+    "name": "tiredness",
+    "parent": 33
+  },
+  {
+    "id": 25,
+    "name": "pain",
+    "parent": 33
+  },
+  {
+    "id": 26,
+    "name": "sadness",
+    "parent": 33
+  },
+  {
+    "id": 27,
+    "name": "insatisfaction",
+    "parent": 33
+  },
+  {
+    "id": 28,
+    "name": "aversion",
+    "parent": 33
+  },
+  {
+    "id": 29,
+    "name": "guilt",
+    "parent": 33
+  },
+  {
+    "id": 30,
+    "name": "doubt",
+    "parent": 34
+  },
+  {
+    "id": 31,
+    "name": "disconnection",
+    "parent": 33
+  },
+  {
+    "id": 32,
+    "name": "needs met",
+    "parent": 1
+  },
+  {
+    "id": 33,
+    "name": "unmet needs",
+    "parent": 1
+  },
+  {
+    "id": 34,
+    "name": "neutral",
+    "parent": 1
+  },
+  {
+    "id": 35,
+    "name": "serene",
+    "parent": 2
+  },
+  {
+    "id": 36,
+    "name": "calm",
+    "parent": 2
+  },
+  {
+    "id": 37,
+    "name": "relaxed",
+    "parent": 2
+  },
+  {
+    "id": 38,
+    "name": "comfortable",
+    "parent": 2
+  },
+  {
+    "id": 39,
+    "name": "renovated",
+    "parent": 3
+  },
+  {
+    "id": 40,
+    "name": "liberated",
+    "parent": 3
+  },
+  {
+    "id": 41,
+    "name": "well-rested",
+    "parent": 3
+  },
+  {
+    "id": 42,
+    "name": "grateful",
+    "parent": 4
+  },
+  {
+    "id": 43,
+    "name": "fortunate",
+    "parent": 4
+  },
+  {
+    "id": 44,
+    "name": "lucky",
+    "parent": 4
+  },
+  {
+    "id": 45,
+    "name": "marveled",
+    "parent": 9
+  },
+  {
+    "id": 46,
+    "name": "admired",
+    "parent": 9
+  },
+  {
+    "id": 47,
+    "name": "fascinated",
+    "parent": 9
+  },
+  {
+    "id": 48,
+    "name": "focused",
+    "parent": 8
+  },
+  {
+    "id": 49,
+    "name": "inspired",
+    "parent": 8
+  },
+  {
+    "id": 50,
+    "name": "motivated",
+    "parent": 8
+  },
+  {
+    "id": 51,
+    "name": "excited",
+    "parent": 10
+  },
+  {
+    "id": 52,
+    "name": "alive",
+    "parent": 10
+  },
+  {
+    "id": 53,
+    "name": "energetic",
+    "parent": 10
+  },
+  {
+    "id": 54,
+    "name": "hopeful",
+    "parent": 7
+  },
+  {
+    "id": 55,
+    "name": "optimist",
+    "parent": 7
+  },
+  {
+    "id": 56,
+    "name": "eager",
+    "parent": 7
+  },
+  {
+    "id": 57,
+    "name": "wishful",
+    "parent": 7
+  },
+  {
+    "id": 58,
+    "name": "wishful",
+    "parent": 7
+  },
+  {
+    "id": 59,
+    "name": "satisfied",
+    "parent": 6
+  },
+  {
+    "id": 60,
+    "name": "realizedd",
+    "parent": 6
+  },
+  {
+    "id": 61,
+    "name": "pleased",
+    "parent": 6
+  },
+  {
+    "id": 62,
+    "name": "proud",
+    "parent": 6
+  }
+]
