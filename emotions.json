@@ -65,108 +65,93 @@
   },
   {
     "id": 14,
-    "name": "optimization",
-    "parent": 2
+    "name": "discomfort",
+    "parent": 1
   },
   {
     "id": 15,
-    "name": "AspectRatioBanker",
-    "parent": 14,
-    "size": 7074
+    "name": "anger",
+    "parent": 1
   },
   {
     "id": 16,
-    "name": "animate",
-    "parent": 3
+    "name": "unmet goal",
+    "parent": 2
   },
   {
     "id": 17,
-    "name": "Easing",
-    "parent": 16,
-    "size": 17010
+    "name": "guilt",
+    "parent": 1
   },
   {
     "id": 18,
-    "name": "FunctionSequence",
-    "parent": 16,
-    "size": 5842
+    "name": "resentment",
+    "parent": 1
   },
   {
     "id": 19,
-    "name": "interpolate",
-    "parent": 16
+    "name": "unmet expectations",
+    "parent": 1
   },
   {
     "id": 20,
-    "name": "ArrayInterpolator",
-    "parent": 19,
-    "size": 1983
+    "name": "confusion",
+    "parent": 1
   },
   {
     "id": 21,
-    "name": "ColorInterpolator",
-    "parent": 19,
-    "size": 2047
+    "name": "fear",
+    "parent": 1
   },
   {
     "id": 22,
-    "name": "DateInterpolator",
-    "parent": 19,
-    "size": 1375
+    "name": "unrest",
+    "parent": 1
   },
   {
     "id": 23,
-    "name": "Interpolator",
-    "parent": 19,
-    "size": 8746
+    "name": "stress",
+    "parent": 1
   },
   {
     "id": 24,
-    "name": "MatrixInterpolator",
-    "parent": 19,
-    "size": 2202
+    "name": "tiredness",
+    "parent": 1
   },
   {
     "id": 25,
-    "name": "NumberInterpolator",
-    "parent": 19,
-    "size": 1382
+    "name": "pain",
+    "parent": 1
   },
   {
     "id": 26,
-    "name": "ObjectInterpolator",
-    "parent": 19,
-    "size": 1629
+    "name": "sadness",
+    "parent": 1
   },
   {
     "id": 27,
-    "name": "PointInterpolator",
-    "parent": 19,
-    "size": 1675
+    "name": "insatisfaction",
+    "parent": 1
   },
   {
     "id": 28,
-    "name": "RectangleInterpolator",
-    "parent": 19,
-    "size": 2042
+    "name": "aversion",
+    "parent": 1
   },
   {
     "id": 29,
-    "name": "ISchedulable",
-    "parent": 16,
-    "size": 1041
+    "name": "guilt",
+    "parent": 1
   },
   {
     "id": 30,
-    "name": "Parallel",
-    "parent": 16,
-    "size": 5176
+    "name": "doubt",
+    "parent": 1
   },
   {
     "id": 31,
-    "name": "Pause",
-    "parent": 16,
-    "size": 449
+    "name": "disconnection",
+    "parent": 1
   },
   {
     "id": 32,
