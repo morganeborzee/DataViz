@@ -16,26 +16,22 @@
   {
     "id": 4,
     "name": "good fortune",
-    "parent": 1,
-    "size": 3938
+    "parent": 1
   },
   {
     "id": 5,
     "name": "confidence",
-    "parent": 1,
-    "size": 3812
+    "parent": 1
   },
   {
     "id": 6,
     "name": "met expectationts",
-    "parent": 1,
-    "size": 6714
+    "parent": 1
   },
   {
     "id": 7,
     "name": "positive future expectations",
-    "parent": 1,
-    "size": 743
+    "parent": 1
   },
   {
     "id": 8,
@@ -45,32 +41,27 @@
   {
     "id": 9,
     "name": "admiration",
-    "parent": 1,
-    "size": 3534
+    "parent": 1
   },
   {
     "id": 10,
     "name": "energy",
-    "parent": 1,
-    "size": 5731
+    "parent": 1
   },
   {
     "id": 11,
     "name": "happiness",
-    "parent": 1,
-    "size": 7840
+    "parent": 1
   },
   {
     "id": 12,
     "name": "surprise",
-    "parent": 1,
-    "size": 5914
+    "parent": 1
   },
   {
     "id": 13,
     "name": "exaltation",
-    "parent": 1,
-    "size": 3416
+    "parent": 1
   },
   {
     "id": 14,
@@ -216,7 +207,7 @@
   {
     "id": 38,
     "name": "data",
-    "parent": 1
+    "parent": 4
   },
   {
     "id": 39,
@@ -292,7 +283,7 @@
   {
     "id": 51,
     "name": "display",
-    "parent": 1
+    "parent": 4
   },
   {
     "id": 52,
@@ -321,7 +312,7 @@
   {
     "id": 56,
     "name": "flex",
-    "parent": 1
+    "parent": 4
   },
   {
     "id": 57,
@@ -332,7 +323,7 @@
   {
     "id": 58,
     "name": "physics",
-    "parent": 1
+    "parent": 4
   },
   {
     "id": 59,
@@ -385,7 +376,7 @@
   {
     "id": 67,
     "name": "query",
-    "parent": 1
+    "parent": 4
   },
   {
     "id": 68,
@@ -755,7 +746,7 @@
   {
     "id": 129,
     "name": "scale",
-    "parent": 1
+    "parent": 4
   },
   {
     "id": 130,
@@ -990,7 +981,7 @@
   {
     "id": 169,
     "name": "vis",
-    "parent": 1
+    "parent": 4
   },
   {
     "id": 170,
